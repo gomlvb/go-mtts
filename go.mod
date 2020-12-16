@@ -1,4 +1,4 @@
-module go-mtts
+module github.com/gomlvb/go-mtts
 
 go 1.14
 
